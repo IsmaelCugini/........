@@ -1,3 +1,3 @@
 ### BONDA 4 🛐
 
-<img rc="octocat1694518418980.png">
+<img src="octocat-1694518418980.png">
